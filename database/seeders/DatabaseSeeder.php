@@ -16,7 +16,7 @@ class DatabaseSeeder extends Seeder
 
 //        \App\Models\Post::factory(10)->create(); // Creates 10 fake posts
 
-        \App\Models\Image::factory(10)->create(); // Creates post images
+        \App\Models\Image::factory(2)->create(); // Creates post images
 
 
         // \App\Models\User::factory()->create([
